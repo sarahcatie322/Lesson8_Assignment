@@ -1,6 +1,12 @@
 ********************************************************************************
 Project Name:  Recipe Display Application - Extra Credit Assignment  (+4 points)
-Author: 
-Date:  
+Author: Sarah Tripp
+Date:  11/11/15
 
 ********************************************************************************
+
+1. DOM TRAVERSAL: I found the h1 element through the header tag by traversing through the sibling, and then the first child, and I added the word fudgy before brownies.
+
+2. CSS CHANGE: I changed the background of the h1 tag to purple using the .css function
+
+3. ANIMATION EVENT: I changed the text color to grey as you click on it using the .css function, and wrapping the sections in divs with specific id's.
